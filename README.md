@@ -3,6 +3,8 @@
 **SkunkPlatform Music** is a streaming platform designed for both music listeners and creator artists.  
 Enjoy your favorite songs directly on the website, and support artists by exploring new music.
 
+![Image](https://skunkplatform-music.netlify.app/images/music_icon.png)
+
 ## 🌟 Key Features
 
 - Stream songs instantly through the website  
